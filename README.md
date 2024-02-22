@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Brayden, and I study Computer Science at Idaho State University.
+I'm currently working on three different CS classes.
 <!--
 **BroBobby48/BroBobby48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
